@@ -4,4 +4,4 @@ Backups of Medium posts and simple markdown articles that don't fit anywhere els
 
 ## Articles
 
-* [Data Viz "vs" Design, from 2017](files/2017-04-21_Data-Visualization--Versus--UI-and-Data-Science-d59182d58af4.md)
+* [Data Visualization "vs" UI and Data Science, from 2017](files/2017-04-21_Data-Visualization--Versus--UI-and-Data-Science-d59182d58af4.md)
