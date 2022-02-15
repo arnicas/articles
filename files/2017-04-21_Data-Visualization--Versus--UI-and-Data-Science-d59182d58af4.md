@@ -1,8 +1,6 @@
 # Data Visualization "Versus" UI and Data Science
 
-I want to talk about the wealth of opportunities I see for data visualization specialists visiting in and borrowing from the "adjacent"...
-
-### Data Visualization "Versus" UI and Data Science
+_NB: This is an article I wrote in 2017, published on [Medium](https://medium.com/@lynn-72328/data-visualization-versus-ui-and-data-science-d59182d58af4) originally. The field has changed a lot, and roles and jobs have too._
 
 <p align="center">
 <img src="./img/1*migOq4RJPBUNLYd8Ias6Hw.jpeg">
@@ -13,7 +11,9 @@ I want to talk about the wealth of opportunities I see for data visualization sp
 
 I prefer to imagine this post will be about more than a tempest in a twitter teapot — or a teenier splash of soy milk in a Silicon Valley macchiato. But it did start with a tweet from there:
 
-> Elijah actually says they are "fleeing" in the latest Data Stories podcast.
+<p align="center"><img src="./img/elijah_tweet.png" height=400></p>
+<p align="center"><i>Elijah actually says they are "fleeing" in the latest Data Stories podcast.
+</i></p>
 
 Since then, we've seen a flurry of posts (see references) about data visualization as a profession, and what if anything might be wrong with it. I'm going to ignore some of the raised issues about the role definition itself and focus more on the relationships between the fields and a bit about the jobs and therein.
 
@@ -48,9 +48,10 @@ Infographics remain as popular as ever. I don't think anyone would deny the chop
 <p align="center">
 <img src="./img/1*pbvuddRznMyOQwTtBpGrXQ.png">
 </p>
-<p align="center">
-Bad cropping by me — Hiram said at Malofiej 2017 that it doesn't take him long to make these from the visual perspective — now that is skill expertise and tool ninja'ing.
+<p align="center"><i>
+Bad cropping by me — Hiram said at Malofiej 2017 that it doesn't take him long to make these from the visual perspective — now that is skill expertise and tool ninja'ing.</i>
 </p>
+
 
 Static infographics and chart makers borrow from UI and visual design techniques, for sure: layout, typography, color, content design, contrast, etc. Even if they don't make infographics like Hiram, they do highly technical work, using tools like Illustrator, Tableau, and Excel or R. Their impact may even be more profound long-term: A congressperson can't hold up an interactive graphic in a hearing, but he can hold up [a chart](https://www.cbo.gov/publication/43289) [Jon Schwabish made at the Congressional Budget Office](https://vimeo.com/203009297). Jon mostly uses Excel. Regardless, he was a judge at [Malofiej 2017](http://www.malofiejgraphics.com/), where prestigious prizes for international news graphics (static and interactive) are awarded every year ([this year's list](https://iguacel.github.io/malofiej/index.html)).
 
@@ -59,11 +60,12 @@ Static infographics and chart makers borrow from UI and visual design techniques
 I'm teaching business students about data analysis and graphics right now. I got depressed when one student showed me an technical interview homework question (yes, even business students get these now), which was to recreate this chart in Excel:
 
 <p align="center">
-<img src="./img/1*l05ZrK00q9qIaMNeOAcHnQ.png">
+<img src="./img/1*l05ZrK00q9qIaMNeOAcHnQ.png" height=300>
 </p>
 <p align="center">
-Fuzzy image of student tech interview hw question for a real job. At a real company.
+  <i>Fuzzy image of student tech interview hw question for a real job. At a real company.</i>
 </p>
+
 
 My internal monologue: "Am I teaching them things that hiring managers won't appreciate or understand? Will my classes actually _hurt_ them on the job market?! Is it her job to say that's a shitty chart, or to actually make it? How _would_ I make it, anyway?" And then I showed her how.
 
@@ -72,14 +74,16 @@ To illustrate the difference between ordinary default Excel chart usage and true
 <p align="center">
 <img src="./img/1*tfs2C2R2IeGcOG6KNPkd7g.png"></p>
 <p align="center">
-Something from **Time** apparently.</p>
+  <i>Something from <b>Time</b> apparently.</i></p>
+
 
 Jorge redesigned it in Excel with a connected scatterplot and useful annotations. It takes some level of skill and design chops to "see" this as a possibility.
 
 <p align="center">
-<img src="./img/1*IOtwWvg5nZVm8aWnsmekOw.png"></p>
+<img src="./img/1*IOtwWvg5nZVm8aWnsmekOw.png" height=400></p>
 <p align="center">
-Camoes redesign from [blog post](https://excelcharts.com/redraw-troops-vs-cost-time-magazine/)</p>
+  <i>Camoes redesign from <a href="https://excelcharts.com/redraw-troops-vs-cost-time-magazine/">post</a>.</i></p>
+
 
 Good design skill can be taught independent of the toolset, as long as we remember to focus on the "what" and not just the "how" in class. It's pretty easy to be sucked into the allure of just teaching "how" because the tools are what they can search for in job ads. (Jorge has comments on the impact that Excel toolset has on visualization practices in [his post](https://medium.com/visualizing-the-field/dispatches-from-the-data-visualization-gutter-1c4acfcde934), and more thoughts on Excel chart literacy.)
 
@@ -94,14 +98,16 @@ In response, [Dominikus Baur](https://medium.com/@dominikus/the-superpower-of-in
 Showing users what's interactive and enticing them to click are a staple element of effective UI design, dating back to debates about button design and how links don't always have to be blue. Data visualization might need to develop some new techniques, though; I like Anna Flagg's trick at the end of the scrollytelling [California is Getting Fracked](http://www.facesoffracking.org/data-visualization/), where she animates open a tooltip on a map dot, presumably to show there is hidden gold here:
 
 <p align="center">
-<img src="./img/1*DhuzQPgdEh437m4gRnOQgQ.png"> [California is Getting Fracked.](http://www.facesoffracking.org/data-visualization/) </p>
+  <img src="./img/1*DhuzQPgdEh437m4gRnOQgQ.png" height=350></p>
 <p align="center">
-By Anna Flagg, _Sarah Craig & Antonia Bruno._</p>
+  <i><a href="http://www.facesoffracking.org/data-visualization/">California is Getting Fracked.</a>By Anna Flagg, Sarah Craig and Antonia Bruno.</i></p>
+
 
 [Lena Groeger](https://www.propublica.org/site/author/lena_groeger)'s many beautiful talks and articles on design techniques in data vis should be required reading for vis designers, static or interactive (see references again). Her [OpenVis Conference talk](http://lenagroeger.s3.amazonaws.com/talks/openvis/thinksmall.html#/) and [writeup](https://source.opennews.org/articles/wee-things/) of "Wee Things" includes this example of a helpful tiny animation from Bloomberg:
 
 <p align="center">
-<img src="./img/1*7AAqhT39SOl61U4aMkntGA.gif"></p>
+<img src="./img/1*7AAqhT39SOl61U4aMkntGA.gif" height=400></p>
+
 
 And as I'm typing this, someone just posted a link to [Andy Cotgreave's article on applying design theory to dashboards](http://gravyanecdote.com/bigbookofdashboards/affordances-and-signifiers/), focused especially on [affordances](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances) (e.g., for interaction), an age-old UI design concept!
 
@@ -113,7 +119,7 @@ Talking about data science is harder because of the lack of a good definition of
 
 <p align="center">
 <img src="./img/1*w67fKm9C4qaZ-bIO6rMrpw.jpeg"></p>
-<p align="center">"should we buy? should we outsource? what is latency? what is an analytics leader? we're so unhappy. this is v8 of the venn but we can't clarify it and have hit deadline." — Gartner creative team</p>
+<p align="center"><i>"should we buy? should we outsource? what is latency? what is an analytics leader? we're so unhappy. this is v8 of the venn but we can't clarify it and have hit deadline." — Gartner creative team</i></p>
 
 If you think data scientists have it easy, you really have to read t [his piece by Monica Rogati about hiring your first data scientist](https://hackernoon.com/how-not-to-hire-your-first-data-scientist-34f0f56f81ae)! Most data scientists spend 80% of their time on dev ops infrastructure, moving data around, and munging — not modeling (this [latest article says it's 70%](http://fgiasson.com/blog/index.php/2017/03/10/a-machine-learning-workflow/), but still). If data visualization people (and UI designers) are not spending 100% of their time doing their thang, they are not alone.
 
@@ -121,7 +127,7 @@ I can see the solid attraction of this field "next door" though, and my own care
 
 Most of us vis people do data analysis. Some academic friends recently shared their suspicion that you should teach data visualization _after_ teaching exploratory data analysis with statistical tools. (All the data journalists reading probably said "No shit.")
 
-> EDA can be done in Python, too.
+<p align="center"><img src="./img/lane_tweet.png" height=200></p>
 
 After all, the data exploration part is how you "find" the story to visualize in the data in the first place. In your average data vis design process article, much of the development story is exploratory analysis before the final product. (E.g., this [great process piece by Periscopic](https://medium.com/@Periscopic/behind-the-scenes-how-we-made-our-feather-visualization-544d727fbe5c) which involves use of a machine learning API, as well.)
 
@@ -130,7 +136,8 @@ The EDA process ([term from Tukey](https://en.wikipedia.org/wiki/Exploratory_dat
 <p align="center">
 <img src="./img/1*95n_J-c2w5cebERRCmP9FA.jpeg"></p>
 <p align="center">
-"The greatest value of a picture is when it forces us to notice what we never expected to see." — Tukey. Like screws in a binding. [This one is pretty expensive.](http://cat.mozzarella.website/mEDA-01)</p>
+  <i>"The greatest value of a picture is when it forces us to notice what we never expected to see." — Tukey. Like screws in a binding.<a href="http://cat.mozzarella.website/mEDA-01">This one is pretty expensive.</a></i></p>
+
 
 
 A lot of those tools are also used in data science roles. No surprise! The tools you are good at open up doors, and the problems you face — especially as data sets get larger —expose new disciplines and methods of relevance. Some of the more interesting data vis pieces of the past few years have involved non-trivial algorithm creation in order to even _get_ to the vis part, e.g., this [Hamilton rhyme analysis piece from the WSJ](http://graphics.wsj.com/hamilton-methodology/).
@@ -140,13 +147,14 @@ We'd all be crazy not to be paying some attention to the hot that is machine lea
 <p align="center">
 <img src="./img/1*vXIw6d-yPlnvG4Dp_Hok2w.jpeg"></p>
 <p align="center">
-A black box. (Actually this came from [this Radiolab episode](http://www.radiolab.org/story/black-box/) which looks amazing but I haven't listened to it yet.)</p>
+  <i>A black box.</i></p>
+
 
 But machine learning has a black-box problem: Most people don't understand how the algorithms work ([one recent ref](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/), for instance). There is enormous opportunity for data vis practitioners to dream up ways to open up these black boxes and invite end-users into the learning process in an intelligent way. Some prominent vis folks have already been seduced into this world, e.g., Shan Carter, Ian Johnson, Fernanda Viegas and Martin Wattenberg, all now working with the Google Brain team.
 
 The most popular algorithm results are usually accompanied by a research translator blog post explaining things to the lay public, or even a live web demo. It's been a few years since [Bret Victor's Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction) and [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) (2011!), but now simulations and visual "explorables" are illustrating complex research. They're also illustrating simpler concepts; at last check, one tweet about this visual introduction to statistics had 99 RT's:
 
->
+<p align="center"><img src="./img/stats_tweet.png" height=400></p>
 
 Maarten Lambrechts has [a nice round up](http://slides.com/maartenzam/dataharvest-rocknpoll#/) of a bunch of interactive explainers and a [great twitter feed](https://twitter.com/explorables); Nicky Case has [a page of simulation tools](http://explorableexplanations.com/) and apps devoted to this topic; see also Victor Powell and Lewis Lehe's [Setosa](http://setosa.io/#/) which has been under development for a few years. Simulation explorer apps are appearing in the data news, too: [538's Hack Your Way to Scientific Glory](https://fivethirtyeight.com/features/science-isnt-broken/), [Bloomberg's The Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/), and the NYT's [election decision tree](https://source.opennews.org/articles/nyts-512-paths-white-house/) are just a few examples.
 
@@ -167,11 +175,11 @@ Distill is offering [prize money](http://distill.pub/prize/) for good visualizat
 
 If I do a search on Indeed.com for "data visualization," I get 13K results. After the first page, with job titles that actually say those words, the titles stray across analytics, engineering, UI, data science, but the descriptions all mentions data visualization as a key function. (Even in France, where I found one for my students that required a "data storyteller!" See, I wasn't talking shit in class!)
 
-There are jobs, even jobs with the "right" titles. Maybe they aren't always ideal in subject matter or corporate environment, maybe they aren't for sexy custom artistic interactive vis products, but there is definitely a way to do data visualization as your job, if you want to. As I'm typing this — and speaking of sexy — Fathom just listed more full-time open positions in Boston, on the [data-vis-jobs list](https://groups.google.com/forum/#!forum/data-vis-jobs) I moderate.
+There are jobs, even jobs with the "right" titles. Maybe they aren't always ideal in subject matter or corporate environment, maybe they aren't for sexy custom artistic interactive vis products, but there is definitely a way to do data visualization as your job, if you want to. As I'm typing this — and speaking of sexy — Fathom just listed more full-time open positions in Boston, on the [data-vis-jobs list](https://groups.google.com/forum/#!forum/data-vis-jobs) I moderate. [ETA: I don't anymore, it's now a board on the DataVis Society page.]
 
 It is certainly true that the role of data visualization and whether it should be considered a "subfield" of something else (like UI or data science) may be a topic of ongoing negotiation. Every new discipline struggles with this. Moritz Stefaner has already posted the Venn diagram for data vis and its role definition, more artistic than most (I looked, they're terrible):
 
->
+<p align="center"><img src="./img/stef_moritz_tweet.png" height=400></p>
 
 But I think if there are jobs with the title "data visualization [X]," then we've won and it's a real field.
 
@@ -180,13 +188,14 @@ Finally, I'd like to add: In the very privileged, educated, upper-income tech wo
 During our career, our interests may evolve as the industry evolves; we have the option to learn new things and transition to new roles if we want to! We might want to ask about people who "leave" a vis job title: "are they still working with data? and will they be bringing new skills to the problems of exploring and communicating about data in a few years?"
 
 <p align="center">
-<img src="./img/1*6gXRryRqTldR7DDh3KQlFA.png"></p>
+<img src="./img/1*6gXRryRqTldR7DDh3KQlFA.jpeg" height=250></p>
 <p align="center">
-A proud yak. From [this piece on yak shaving](https://medium.com/@firehoseproject/a-guide-to-yak-shaving-your-code-d30f98dc759).</p>
+  <i>A proud yak. From <a href="https://medium.com/@firehoseproject/a-guide-to-yak-shaving-your-code-d30f98dc759">this piece on yak shaving</a></i>.</p>
+
 
 It is also true that people in data vis roles have different yaks they are willing to shave to stay in the biz. I was talking to a prominent German data vis friend (no, the one in Munich) about this a few months ago. He seems more willing to wrestle with Javascript frameworks or drivers to make a display work, while I'm more willing to clean big data unicode errors by hand with an old toothbrush in a snowstorm running uphill than I am to want to test drive the latest framework. Maybe the former is a more UI-dev-oriented vis trait and the latter a more data-science-oriented vis trait.
 
-Elijah himself probably found most of this post shallow, patronizing and obvious, and I've not dealt with his issues in data visualization as an enterprise job. I excuse myself by being a lot older and having had more bad jobs than he has so far. I was a manager once too. Most jobs do require you to change your role if you want to climb a corporate ladder. As you get up to the top, it's about the business, not about the individual, and oh so increasingly true in the USA! I left to do consulting (and now teaching) because I'm more interested in the data problem space, and facing new design and technical challenges, than I am in job titles and salaries. There's a lot to learn out there today, and lot of new challenges, especially in data science. Data scientists have explicitly said they want **help** from visualization.
+I was a manager once. Most jobs do require you to change your role if you want to climb a corporate ladder. As you get up to the top, it's about the business, not about the individual, and oh so increasingly true in the USA! I left to do consulting (and now teaching) because I'm more interested in the data problem space, and facing new design and technical challenges, than I am in job titles and salaries. There's a lot to learn out there today, and lot of new challenges, especially in data science. Data scientists have explicitly said they want **help** from visualization.
 
 If you're a data vis person who is at all like me, you're not really going anywhere, even if your job title and tools change occasionally. It's still about communicating data.
 
