@@ -7,7 +7,7 @@ I want to talk about the wealth of opportunities I see for data visualization sp
 <p align="center">
 <img src="./img/1*migOq4RJPBUNLYd8Ias6Hw.jpeg">
 </p>
-<p align="center"><b>I had too much fun looking for fake owl combat. Don't go there.</b></p>
+<p align="center"><i>I had too much fun looking for fake owl combat. Don't go there.</i></p>
 
 I want to talk about the wealth of opportunities I see for data visualization specialists visiting in and borrowing from the "adjacent" fields of UI design and data science.
 
@@ -28,8 +28,8 @@ Selling the move to data visualization from UX wasn't hard: Dashboards were boom
 <p align="center">
 <img src="./img/1*8ULAFzmuVoozzmLJPgAvuA.png">
 </p>
-<p align="center">
-Image of project dashboard for successful, on-time development of Heathrow Terminal 2 from Paolo Quattrone talk at EM-Lyon Business School. </p>
+<p align="center"><i>
+Image of project dashboard for successful, on-time development of Heathrow Terminal 2 from Paolo Quattrone talk at EM-Lyon Business School.</i></p>
 
 The gist here is that all 4 quadrants are in potential conflict but that's still useful to the users. I still maintain that dashboard design can be a pit of political misery (see my [Datavis Consulting: Advice for Newbies](http://blogger.ghostweather.com/2013/11/data-vis-consulting-advice-for-newbies.html) post.)
 
@@ -112,7 +112,7 @@ UX design and data visualization are going to continue to have a long and fruitf
 Talking about data science is harder because of the lack of a good definition of that field. Here's one of the worst of many topical Venns, which captures less about the field and more about the ontological and existential confusion of Gartner analysts required to report on it (check their honest "..." at the end of the title):
 
 <p align="center">
-<img src="./img/1*w67fKm9C4qaZ-bIO6rMrpw.png"></p>
+<img src="./img/1*w67fKm9C4qaZ-bIO6rMrpw.jpeg"></p>
 <p align="center">"should we buy? should we outsource? what is latency? what is an analytics leader? we're so unhappy. this is v8 of the venn but we can't clarify it and have hit deadline." — Gartner creative team</p>
 
 If you think data scientists have it easy, you really have to read t [his piece by Monica Rogati about hiring your first data scientist](https://hackernoon.com/how-not-to-hire-your-first-data-scientist-34f0f56f81ae)! Most data scientists spend 80% of their time on dev ops infrastructure, moving data around, and munging — not modeling (this [latest article says it's 70%](http://fgiasson.com/blog/index.php/2017/03/10/a-machine-learning-workflow/), but still). If data visualization people (and UI designers) are not spending 100% of their time doing their thang, they are not alone.
@@ -128,7 +128,7 @@ After all, the data exploration part is how you "find" the story to visualize in
 The EDA process ([term from Tukey](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) involves creating simple descriptive charts during data set exploration, but there's also data munging, data cleaning, simple stats, outlier investigation, pivoting and investigation of group distributions, and all the other data exploration activities along the way to the final communication piece. Most "full-stack" visualization folks, who have to clean their own data, use a mix of tools to different degrees of skill: Python, R, Excel, Tableau, Spark (if you're really cool), Unix shell scripting.
 
 <p align="center">
-<img src="./img/1*95n_J-c2w5cebERRCmP9FA.png"></p>
+<img src="./img/1*95n_J-c2w5cebERRCmP9FA.jpeg"></p>
 <p align="center">
 "The greatest value of a picture is when it forces us to notice what we never expected to see." — Tukey. Like screws in a binding. [This one is pretty expensive.](http://cat.mozzarella.website/mEDA-01)</p>
 
@@ -138,7 +138,7 @@ A lot of those tools are also used in data science roles. No surprise! The tools
 We'd all be crazy not to be paying some attention to the hot that is machine learning, especially AI, right now. I don't need to give you references to back up how hot it is, because if you're reading this I assume you're not living under a rock in a quiet town in Yorkshire.
 
 <p align="center">
-<img src="./img/1*vXIw6d-yPlnvG4Dp_Hok2w.png"></p>
+<img src="./img/1*vXIw6d-yPlnvG4Dp_Hok2w.jpeg"></p>
 <p align="center">
 A black box. (Actually this came from [this Radiolab episode](http://www.radiolab.org/story/black-box/) which looks amazing but I haven't listened to it yet.)</p>
 
