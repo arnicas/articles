@@ -11,7 +11,7 @@ I want to talk about the wealth of opportunities I see for data visualization sp
 
 I prefer to imagine this post will be about more than a tempest in a twitter teapot — or a teenier splash of soy milk in a Silicon Valley macchiato. But it did start with a tweet from there:
 
-<p align="center"><img src="./img/elijah_tweet.png" height=400></p>
+<p align="center"><img src="./img/elijah_tweet.png" height=150></p>
 <p align="center"><i>Elijah actually says they are "fleeing" in the latest Data Stories podcast.
 </i></p>
 
@@ -46,7 +46,7 @@ Effective data visualization design borrows from principles of good UI design. T
 Infographics remain as popular as ever. I don't think anyone would deny the chops that goes into one of these beauties by [Hiram Henriquez](http://h2hgraphics.com/infographics.html):
 
 <p align="center">
-<img src="./img/1*pbvuddRznMyOQwTtBpGrXQ.png">
+<img src="./img/1*pbvuddRznMyOQwTtBpGrXQ.png" height=300>
 </p>
 <p align="center"><i>
 Bad cropping by me — Hiram said at Malofiej 2017 that it doesn't take him long to make these from the visual perspective — now that is skill expertise and tool ninja'ing.</i>
@@ -127,7 +127,7 @@ I can see the solid attraction of this field "next door" though, and my own care
 
 Most of us vis people do data analysis. Some academic friends recently shared their suspicion that you should teach data visualization _after_ teaching exploratory data analysis with statistical tools. (All the data journalists reading probably said "No shit.")
 
-<p align="center"><img src="./img/lane_tweet.png" height=200></p>
+<p align="center"><img src="./img/lane_tweet.png" height=150></p>
 
 After all, the data exploration part is how you "find" the story to visualize in the data in the first place. In your average data vis design process article, much of the development story is exploratory analysis before the final product. (E.g., this [great process piece by Periscopic](https://medium.com/@Periscopic/behind-the-scenes-how-we-made-our-feather-visualization-544d727fbe5c) which involves use of a machine learning API, as well.)
 
