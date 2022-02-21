@@ -80,7 +80,7 @@ Cook uses a system of character codes of binary and explicit gender, which are t
 
 Also, there are various annotation notes that require manipulations of the stories as you move between them, such as transposing characters or changing characters.
 
-<p align="center"><img src="./img/0*qL2kCSQQs2Z3EhgE.png" height=400></p>
+<p align="center"><img src="./img/0*qL2kCSQQs2Z3EhgE.png" height=300></p>
 
 This " **Plotto"** book clocks in at 480 pages printed. There are 1852 conflicts in it. I never read it cover to cover, I just flipped around in it and giggled at it. I'm boggled at the work that went into creating it, and imagine mansions with walls covered in 1920's notecards and string. The biography of him on Amazon explains a little bit about what his source of inspiration was:
 
@@ -137,7 +137,7 @@ Male protagonist is an aristocrat; and female protagonist, the woman he loves, i
 
 You can probably guess from "woman-hater" and some other clues that I found the plots and characters a bit — well, _antiquated,_ in terms of gender roles. Indeed, even Gary, who implemented the hypertext version, must have been annoyed, because he added a "gender swap" toggle at the top of the page, which just changes all the A's to B's and vice versa. That was definitely not in Cook's original plan for The Music of The Soul That is " **Plotto**."
 
-<p align="center"><img src="./img/1*mlS1so7LocQwzbdxZWKbKQ.png" width=400></p>
+<p align="center"><img src="./img/1*mlS1so7LocQwzbdxZWKbKQ.png" width=500></p>
 <p align="center"><i><a href='https://garykac.github.io/plotto/plotto-mf.html'>Site link</a></i></p>
 
 But then I got this, which introduces to the sexism a very explicit racism:
@@ -165,7 +165,7 @@ A simpler relative of " **Plotto**" is clearly the "[Choose Your Own Adventure](
 
 I loaded " **Plotto**" into a graph representation and analyzed all the conflicts as nodes and the relationships as edges, where an edge might have instruction attributes like "change a character to another one."
 
-<p align="center"><img src="./img/1*OoYYWNbxdieToSsNPNuTow.png" width=450></p>
+<p align="center"><img src="./img/1*OoYYWNbxdieToSsNPNuTow.png" width=550></p>
 <p align="center"><i>Ugly basic slide explanation of the representation as a graph.</i></p>
 
 This is one layout of the hairball graph we get using [Gephi](https://gephi.org/) and coloring by the top-group node relationships:
