@@ -4,4 +4,5 @@ Backups of Medium posts and simple markdown articles that don't fit anywhere els
 
 ## Articles
 
+* ["Plotto": Generating Truly Offensive Stories Since 1928](files/2018-10-16_-Plotto---Generating-Truly-Offensive-Stories-Since-1928--26b587f83c07.md)
 * [Data Visualization "vs" UI and Data Science, from 2017](files/2017-04-21_Data-Visualization--Versus--UI-and-Data-Science-d59182d58af4.md)
