@@ -256,7 +256,7 @@ A-0, a white man battling against the superstitious frenzy of a half-savage trib
 A-0, a white man of brilliant intellectual attainments, battles for existence in an isolated, primitive, savage wilderness
 ```
 <p align="center"><img src="
-./img/1*Vs9jDQo_bG72ev4Lke3mtQ.png" height=400></p> <p align="center"><i>A "Plotto" plot, with cuddly "savages" being duped by a gold AI</i></p>
+./img/1*Vs9jDQo_bG72ev4Lke3mtQ.png" height=300></p> <p align="center"><i>A "Plotto" plot, with cuddly "savages" being duped by a gold AI</i></p>
 
 Geez, I have had enough of " **Plotto**!"
 
