@@ -80,7 +80,7 @@ Cook uses a system of character codes of binary and explicit gender, which are t
 
 Also, there are various annotation notes that require manipulations of the stories as you move between them, such as transposing characters or changing characters.
 
-<p align="center"><img src="./img/0*qL2kCSQQs2Z3EhgE.png" height=300></p>
+<p align="center"><img src="./img/0*qL2kCSQQs2Z3EhgE.png" width=500></p>
 
 This " **Plotto"** book clocks in at 480 pages printed. There are 1852 conflicts in it. I never read it cover to cover, I just flipped around in it and giggled at it. I'm boggled at the work that went into creating it, and imagine mansions with walls covered in 1920's notecards and string. The biography of him on Amazon explains a little bit about what his source of inspiration was:
 
