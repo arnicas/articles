@@ -1,6 +1,6 @@
 # "Plotto": Generating Truly Offensive Stories Since 1928.
 
-(An article from 2018, converted to MD from Medium.)
+(An article from 2018, converted to markdown from [Medium](https://lynn-72328.medium.com/plotto-generating-truly-offensive-stories-since-1928-26b587f83c07).)
 
 Tl;dr: I wrote a lot of code to generate stories from the 1928 writer's manual " **Plotto**," and then I looked at the data and decided that just because I could, it wasn't a good idea. I'm not releasing that dataset and code.
 
