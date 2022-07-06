@@ -14,7 +14,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_0.png" />
+    <img src="image_traveler2_0.png" />
 </p>  
 Top caption used: A man walking on a trail near a lake while painting a fish sitting on the top
 Other top captions:
@@ -27,7 +27,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_1.png" />
+    <img src="image_traveler2_1.png" />
 </p>  
 Top caption used: A mural painting of a man fishing with a pole.
 Other top captions:
@@ -40,7 +40,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_2.png" />
+    <img src="image_traveler2_2.png" />
 </p>  
 Top caption used: a wooden wall mural of a man fishing with his fishing pole
 Other top captions:
@@ -53,7 +53,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_3.png" />
+    <img src="image_traveler2_3.png" />
 </p>  
 Top caption used: a mural painting of a fisherman on a wooden dock with fishing line
 Other top captions:
@@ -66,7 +66,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_4.png" />
+    <img src="image_traveler2_4.png" />
 </p>  
 Top caption used: A mural on wooden door of a large yellow fishing boat.
 Other top captions:
@@ -79,7 +79,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_5.png" />
+    <img src="image_traveler2_5.png" />
 </p>  
 Top caption used: A wood painted door on top of a wall next to a fish boat.
 Other top captions:
@@ -92,7 +92,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_6.png" />
+    <img src="image_traveler2_6.png" />
 </p>  
 Top caption used: A painted fish boat hanging over a wall in front of a wall with a painted mural
 Other top captions:
@@ -105,7 +105,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_7.png" />
+    <img src="image_traveler2_7.png" />
 </p>  
 Top caption used: A painted fish fishing boat on a wall next to a building.
 Other top captions:
@@ -118,7 +118,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_8.png" />
+    <img src="image_traveler2_8.png" />
 </p>  
 Top caption used: A fish sits on top of a small beach boat next to a mural painted.
 Other top captions:
@@ -131,7 +131,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_9.png" />
+    <img src="image_traveler2_9.png" />
 </p>  
 Top caption used: A fish boat painted on a metal wall in front of a building.
 Other top captions:
@@ -144,7 +144,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_10.png" />
+    <img src="image_traveler2_10.png" />
 </p>  
 Top caption used: A painted fish boat in front of a billboard advertisement for a local store.
 Other top captions:
@@ -157,7 +157,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_11.png" />
+    <img src="image_traveler2_11.png" />
 </p>  
 Top caption used: A floating fish boat is surrounded by advertising signs on a side of a sea.
 Other top captions:
@@ -170,7 +170,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_12.png" />
+    <img src="image_traveler2_12.png" />
 </p>  
 Top caption used: A fishing boat on the lake in front of an advertisement for fried fish.
 Other top captions:
@@ -183,7 +183,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_13.png" />
+    <img src="image_traveler2_13.png" />
 </p>  
 Top caption used: A fishing boat showing advertisement painted in color on a wooden deck of grassy land.
 Other top captions:
@@ -196,7 +196,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_14.png" />
+    <img src="image_traveler2_14.png" />
 </p>  
 Top caption used: A wooden boat is decorated with a sailboard next to a big sign.
 Other top captions:
@@ -209,7 +209,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_15.png" />
+    <img src="image_traveler2_15.png" />
 </p>  
 Top caption used: A person standing on top of a sailboat with a banner and a boat parked behind
 Other top captions:
@@ -222,7 +222,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_16.png" />
+    <img src="image_traveler2_16.png" />
 </p>  
 Top caption used: A man on a sailboat under a blue and white banner holding a wooden sail
 Other top captions:
@@ -235,7 +235,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_17.png" />
+    <img src="image_traveler2_17.png" />
 </p>  
 Top caption used: A blue tarp sailboat standing over the ocean with a large white flag on it
 Other top captions:
@@ -248,7 +248,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_18.png" />
+    <img src="image_traveler2_18.png" />
 </p>  
 Top caption used: A kite sailing below a blue tarp with a flag.
 Other top captions:
@@ -261,5 +261,5 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler2/image_traveler2_19.png" />
+    <img src="image_traveler2_19.png" />
 </p>  

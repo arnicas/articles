@@ -14,7 +14,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_0.png" />
+    <img src="image_castle_hill_0.png" />
 </p>  
 Top caption used: A green castle standing among rolling green hills on a white slope down an incline.
 Other top captions:
@@ -27,7 +27,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_1.png" />
+    <img src="image_castle_hill_1.png" />
 </p>  
 Top caption used: A green hill on grassy terrain next to trees and a hill with a castle on
 Other top captions:
@@ -40,7 +40,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_2.png" />
+    <img src="image_castle_hill_2.png" />
 </p>  
 Top caption used: A grass surrounded castle sitting on a grassy hill on a bright green landscape.
 Other top captions:
@@ -53,7 +53,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_3.png" />
+    <img src="image_castle_hill_3.png" />
 </p>  
 Top caption used: A white light green castle in the distance on a grassy field.
 Other top captions:
@@ -66,7 +66,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_4.png" />
+    <img src="image_castle_hill_4.png" />
 </p>  
 Top caption used: An image of a castle sitting on a green field beside a grassy field.
 Other top captions:
@@ -79,7 +79,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_5.png" />
+    <img src="image_castle_hill_5.png" />
 </p>  
 Top caption used: a close up of a large green castle with lush green grass
 Other top captions:
@@ -92,7 +92,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_6.png" />
+    <img src="image_castle_hill_6.png" />
 </p>  
 Top caption used: A green castle is surrounded by trees and grass.
 Other top captions:
@@ -105,7 +105,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_7.png" />
+    <img src="image_castle_hill_7.png" />
 </p>  
 Top caption used: A green field with a castle and grassy grass surrounded by trees.
 Other top captions:
@@ -118,7 +118,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_8.png" />
+    <img src="image_castle_hill_8.png" />
 </p>  
 Top caption used: A green castle in a green field has a yellow top topped entrance in it.
 Other top captions:
@@ -131,7 +131,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_9.png" />
+    <img src="image_castle_hill_9.png" />
 </p>  
 Top caption used: A castle sitting on a grassy field topped by trees next to a wooden fire hyd
 Other top captions:
@@ -144,7 +144,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_10.png" />
+    <img src="image_castle_hill_10.png" />
 </p>  
 Top caption used: A tall castle with trees behind a fire engine in a field.
 Other top captions:
@@ -157,7 +157,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_11.png" />
+    <img src="image_castle_hill_11.png" />
 </p>  
 Top caption used: A red truck and a fire engine sitting on a forest green hill with a castle on
 Other top captions:
@@ -170,7 +170,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_12.png" />
+    <img src="image_castle_hill_12.png" />
 </p>  
 Top caption used: A red fire truck drives along a grassy hill surrounded by trees.
 Other top captions:
@@ -183,7 +183,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_13.png" />
+    <img src="image_castle_hill_13.png" />
 </p>  
 Top caption used: A man riding a fire truck in front of a field lined with trees.
 Other top captions:
@@ -196,5 +196,5 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/castle_hill/image_castle_hill_14.png" />
+    <img src="image_castle_hill_14.png" />
 </p>  

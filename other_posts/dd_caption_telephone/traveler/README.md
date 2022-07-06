@@ -14,7 +14,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_0.png" />
+    <img src="image_traveler_0.png" />
 </p>  
 Top caption used: a painting in a park with a man standing next to a lake looking out a window
 Other top captions:
@@ -27,7 +27,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_1.png" />
+    <img src="image_traveler_1.png" />
 </p>  
 Top caption used: A painting of a mural on a wall looking at a green park through the distance.
 Other top captions:
@@ -40,7 +40,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_2.png" />
+    <img src="image_traveler_2.png" />
 </p>  
 Top caption used: A wall painting depicting gardens in a green field and trees.
 Other top captions:
@@ -53,7 +53,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_3.png" />
+    <img src="image_traveler_3.png" />
 </p>  
 Top caption used: The wall painting on a wall is a Chinese green decoration with trees, flowers, flowers
 Other top captions:
@@ -66,7 +66,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_4.png" />
+    <img src="image_traveler_4.png" />
 </p>  
 Top caption used: A painting of chinese letters on a wall that is painted with red curtains and green
 Other top captions:
@@ -79,7 +79,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_5.png" />
+    <img src="image_traveler_5.png" />
 </p>  
 Top caption used: A graffiti painted white neon sign written in Chinese on top of a wall with a green
 Other top captions:
@@ -92,7 +92,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_6.png" />
+    <img src="image_traveler_6.png" />
 </p>  
 Top caption used: Written in Chinese graffiti on a building wall is painted green and yellow.
 Other top captions:
@@ -105,7 +105,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_7.png" />
+    <img src="image_traveler_7.png" />
 </p>  
 Top caption used: A graffiti written in green Chinese words with a yellow button on it.
 Other top captions:
@@ -118,7 +118,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_8.png" />
+    <img src="image_traveler_8.png" />
 </p>  
 Top caption used: A yellow tag written in Chinese and green and painted with pink lines and white and blue
 Other top captions:
@@ -131,7 +131,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_9.png" />
+    <img src="image_traveler_9.png" />
 </p>  
 Top caption used: A large yellow car plate with green and black words written and written in Chinese on it
 Other top captions:
@@ -144,7 +144,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_10.png" />
+    <img src="image_traveler_10.png" />
 </p>  
 Top caption used: A yellow and green licence plate with the word of China written on it.
 Other top captions:
@@ -157,7 +157,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_11.png" />
+    <img src="image_traveler_11.png" />
 </p>  
 Top caption used: A yellow license plate of the Chinese language sitting on the dashboard of a car.
 Other top captions:
@@ -170,7 +170,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_12.png" />
+    <img src="image_traveler_12.png" />
 </p>  
 Top caption used: A yellow plate with Chinese characters at the end of a vehicle door.
 Other top captions:
@@ -183,7 +183,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_13.png" />
+    <img src="image_traveler_13.png" />
 </p>  
 Top caption used: A yellow taxi with a white tag attached to it with several Chinese characters.
 Other top captions:
@@ -196,7 +196,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_14.png" />
+    <img src="image_traveler_14.png" />
 </p>  
 Top caption used: A yellow taxi and cab and a yellow passenger holding a bottle beside the driver.
 Other top captions:
@@ -209,7 +209,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_15.png" />
+    <img src="image_traveler_15.png" />
 </p>  
 Top caption used: an image of a yellow taxi with a car in the rear
 Other top captions:
@@ -222,7 +222,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_16.png" />
+    <img src="image_traveler_16.png" />
 </p>  
 Top caption used: Monochrome background of a yellow yellow taxi on the street next to a large white
 Other top captions:
@@ -235,7 +235,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_17.png" />
+    <img src="image_traveler_17.png" />
 </p>  
 Top caption used: Two yellow and white taxis sitting on top of a bus stop.
 Other top captions:
@@ -248,7 +248,7 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_18.png" />
+    <img src="image_traveler_18.png" />
 </p>  
 Top caption used: Many yellow buses on a snowy road with some buildings parked behind them.
 Other top captions:
@@ -261,5 +261,5 @@ Other top captions:
 
 
 <p align="center">
-    <img src="tele_output/traveler/image_traveler_19.png" />
+    <img src="image_traveler_19.png" />
 </p>  
