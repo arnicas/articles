@@ -25,14 +25,14 @@ Getting progressively better with prompt and guidance scale settings:
 
 ## Init Images from Creepy Fine Art:
 
-[Franz Sedlacek](https://www.dailyartmagazine.com/franz-sedlacek/), a couple non-realist images:
+[Franz Sedlacek](https://www.dailyartmagazine.com/franz-sedlacek/), a creepy source image:
 
 <img src="./gifs/franz-sedlacek-Small.jpg">
 
 
-### Gen 2
+### RunwayML Gen2
 
-Entire composition changes in the end
+Entire composition changes in the end, abruptly.
 
 ![tree1](./gifs/Gen-2-franze-tree-193378346.gif)
 
@@ -46,11 +46,11 @@ With some fiddling with prompt and guidance, I can get this:
 
 ## A Less Realist Image
 
-Another by Franz Sedlacek:
+Another source image by Franz Sedlacek:
 
 <img src="./gifs/franz-sedlacek-2.jpg" width="400px">
 
-### Gen 2 
+### RunwayML Gen2 
 
 Again changes the whole composition at the end, no prompt:
 
