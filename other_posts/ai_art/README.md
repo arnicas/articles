@@ -9,13 +9,13 @@ Init Image from Midjourney:
 
 ### Runway Gen2 with no prompt
 
-Prompt will otherwise wipe out the init:
+This has nice motion, but at the end the composition is actually slightly different (more visible in higher res). A prompt will otherwise wipe out the init image with their current settings.
 
 ![door](./gifs/door_gen2.gif)
 
-### Pika Labs AI, prompt "birds flying" as the idea outside the door:
+### Pika Labs AI, prompt with variants of "birds flying" as the concept
 
-Getting progressively better with prompt and guidance scale settings:
+Getting progressively better with prompt and guidance scale settings. But LOL the duck.
 
 ![birds-gs5](./gifs/birds-flying-gs5-pika.gif)
 
