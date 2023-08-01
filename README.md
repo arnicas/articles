@@ -1,6 +1,11 @@
-# articles
+# About
 
 Backups of Medium posts and simple markdown articles that don't fit anywhere else.  Also see my [free substack mailing "Things I Think Are Awesome"](https://arnicas.substack.com) for a monthly high-quality list of links on AI art, procgen, narrative, NLP/datavis links, books, tv, games, and a poem.
+
+## AI Experiments
+
+Some output from AI experiments that may be referred to in my substack newsletter on creative AI and tech.
+See the [About](./other_posts/ai_art/README.md).
 
 ## Articles
 
