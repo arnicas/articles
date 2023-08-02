@@ -64,6 +64,18 @@ Both pleasing! I asked for an ocean of mist.
 
 ![pika-mist2](./gifs/franz-mist1-pika.gif)
 
+## Another Franz Sedlacek, Just Pika
+
+<img src="./gifs/franz-bat-piano.jpeg" width="400px">
+
+### Using Pika Labs To Get the Bat to Flap :)
+
+Not perfectly successful... a few attempts -- we would want the guy playing the piano but also the bat:
+
+![bat1](./gifs/bat-flapping1.gif)
+
+![bat3](./gifs/bat-flapping2.gif)
+
 # Animate Diff - mid July 2023
 
 [AnimateDiff](https://github.com/guoyww/AnimateDiff) example for my newsletter [here](https://arnicas.substack.com/p/titaa-445-myhouse-is-a-very-weird).
