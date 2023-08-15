@@ -1,5 +1,14 @@
 # AI Art Illustrations
 
+## Init Image with Gen2's 18 Seconds
+
+Extending an image with 4 secs at a time... honestly I adore the weirdness. Who is this? What is going on? There are portals in the pictures.  I love it.
+
+Starting again from the Franz Sedlacek bat picture. I edited lightly to speed up the central weird office bit and the ending and reduce file size.
+
+![bat-office](./gifs/bat-office-sequences-gen2-smaller.gif)
+
+(The [MP4](./gifs/bat-office-sequences-gen2-smaller.mp4))
 
 ## Init Image Tests with Gen2 and Pika Labs Beta (Updated 31 July 2023)
 
