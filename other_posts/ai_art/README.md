@@ -1,10 +1,10 @@
 # AI Art Illustrations
 
-## Init Image with Gen2's 18 Seconds
+## Init Image with Gen2's 18 Seconds (Aug 15, 2023)
 
 Extending an image with 4 secs at a time... honestly I adore the weirdness. Who is this? What is going on? There are portals in the pictures.  I love it.
 
-Starting again from the Franz Sedlacek bat picture. I edited lightly to speed up the central weird office bit and the ending and reduce file size.
+Starting again from the Franz Sedlacek bat picture (see below). I edited lightly to speed up the central weird office bit and the ending and reduce file size.
 
 ![bat-office](./gifs/bat-office-sequences-gen2-smaller.gif)
 
