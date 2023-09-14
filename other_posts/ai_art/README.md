@@ -1,5 +1,21 @@
 # AI Art Illustrations
 
+## Camera Controls on Pika and Runway Gen2 - Zoom In (Sept 13, 2023)
+
+Both RunwayML Gen2 and Pika are now offering camera controls of a sort. You can specify amount of motion too. I still remain fascinated by the random extensions of Gen2.
+
+Pika added a cute little figure walking on this short zoom on an MJ image (quality way reduced since I can't play mp4s here?):
+
+![mj-hillside-pika](./gifs/pika-zoom-mj-smaller.gif)
+
+The zoom in with Runway doesn't make little people appear, and distorts the architecture. But it's always interesting to see what happens.
+
+![runway-hillside-zoom](./gifs/runway-zoom-smaller.gif)
+
+This long 16s one of Gen2 zooming in on a church becomes a lot of weird buildings and a great sky and then wtf knows :)
+
+![runway-church-zoom](./gifs/runway-zoom-church-smaller.gif)
+
 ## Init Image with Gen2's 18 Seconds (Aug 15, 2023)
 
 Extending an image with 4 secs at a time... honestly I adore the weirdness. Who is this? What is going on? There are portals in the pictures.  I love it.
