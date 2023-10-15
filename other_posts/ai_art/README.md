@@ -1,5 +1,9 @@
 # AI Art Illustrations
 
+## IKEA Diagrams (Oct 14, 2023)
+
+Check [this page](ikea-diagrams.md), it got long!
+
 ## Camera Controls on Pika and Runway Gen2 - Zoom In (Sept 13, 2023)
 
 Both RunwayML Gen2 and Pika are now offering camera controls of a sort. You can specify amount of motion too. I still remain fascinated by the random extensions of Gen2.
