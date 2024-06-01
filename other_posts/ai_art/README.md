@@ -1,5 +1,11 @@
 # AI Art Illustrations
 
+## Latens video and STORM-generated Quantum Article (June 1, 2024)
+
+["Quantum Mechanics Implications for Consciousness and Reality"](texts/quantum_mechanics_implications_for_consciousness_and_reality_storm_gen_article.pdf) - an article generated with the demo of Stanford's [STORM project](https://storm.genie.stanford.edu/) using search results and summarization. Compare with the [Perplexity.ai Page](https://www.perplexity.ai/page/Quantum-Superposition-Explained-79mn8jRdSZa16fJN5mme.A) I made which has broader but less deep coverage, because it can be steered by section. 
+
+[Bosch-inspired drive in Latens.ai pre-alpha](gifs/latens.gif)  -- video sped up 200%
+
 ## IKEA Diagrams (Oct 14, 2023)
 
 Check [this page](ikea-diagrams.md), it got long!
